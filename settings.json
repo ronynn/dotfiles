@@ -1,0 +1,11 @@
+{
+    "autosave": 1,
+    "infobar": false,
+    "keepautoindent": true,
+    "ruler": true,
+    "savecursor": true,
+    "softwrap": true,
+    "wordwrap": true,
+    "statusline": false,
+    "autoclose": true
+}

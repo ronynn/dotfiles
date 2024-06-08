@@ -1,0 +1,45 @@
+Welcome ronynn ʕ •ᴥ•ʔ
+
+ctrl l(clear) t(newtab), motd, brc for .bashrc, n for nano, cd ls pwd date cal
+Not Available: qjs, serve for esbuild
+
+script --timing=time.tm myscript
+scriptreplay --timing=time.tm -d=4 myscript
+
+pp = cd .., c goes to that music folder, todocs
+ll = ls -a
+
+- m for micro editor: tree then arrows and tab to open,
+    ctrl w to change focus
+    ctrl e,  tab or hsplit newfile
+
+- git and gh, use for generic notes as well
+    learn to backtrack, diff branches, compare diff
+    gh issue create, gh repo clone cli/cli, gh release create
+    git clone, git init
+    git add .
+    git pull, fetch -depth=1
+    git commit -m "message"
+    git push origin main
+    git branch list create
+
+
+- mruby: then practice dsa and find limits
+- tweego(within c folder)
+
+
+
+Replace spaces in filenames with underscores
+
+rename 'y/ /\_/' \*
+Convert filenames to lowercase
+
+rename 'y/A-Z/a-z/' \*
+Convert filenames to uppercase
+
+rename 'y/a-z/A-Z/' \*
+
+-----------------------------------
+
+
+

@@ -1,0 +1,1 @@
+pkg update && pkg upgrade && pkg i mruby tweego esbuild qjs micro gh 

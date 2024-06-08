@@ -1,0 +1,28 @@
+set softwrap
+set atblanks
+
+set autoindent
+set mouse
+
+bind ^c copy main
+bind ^v paste all
+bind ^x cut main
+bind ^z undo main
+bind ^y redo main
+bind ^f whereis main
+bind F3 findnext main
+bind ^h replace main
+bind ^q exit  main
+bind ^a mark  main
+set zap
+set tabsize 2
+
+set cutfromcursor
+set nohelp
+set tabstospaces
+set constantshow
+# set linenumbers
+set casesensitive
+set positionlog
+# set indicator
+# set minibar
